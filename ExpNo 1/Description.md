@@ -105,21 +105,26 @@ print(traversedpath)
 <hr>
 <h3>Sample Input</h3>
 
-![image](https://github.com/shoaib3136/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/117919362/91febb38-d0fc-4c65-8b26-9d355d77a33d)
+![ai_1 7](https://github.com/gummadileepkumar/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118707761/bec18186-235e-476e-a703-d71bc9a9b579)
+
 
 <h3>Sample Output</h3>
+![ai_1 8](https://github.com/gummadileepkumar/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118707761/2a76dd58-d4f0-4e7f-9b39-4c0aa58d4cec)
 
-![image](https://github.com/shoaib3136/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/117919362/b2bbf5dc-1536-4af8-a4c6-9f89d148b065)
 
 
 <hr>
 <h3>Sample Input</h3>
 
-![image](https://github.com/shoaib3136/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/117919362/921b88a9-0c74-446f-96b2-4a5730caa6f5)
+![ai_1 9](https://github.com/gummadileepkumar/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118707761/3db41d59-d46e-451e-a20c-3737d886d328)
+
+
 
 <h3>Sample Output</h3>
 
-![image](https://github.com/shoaib3136/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/117919362/e18b1405-8536-48c1-a000-214832d93b37)
+
+![ai_1 10](https://github.com/gummadileepkumar/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118707761/37337cb7-48f6-4f5a-90eb-65a677942a04)
+
 
 <h3>Result:</h3>
 <hr>
