@@ -109,8 +109,9 @@ print(traversedpath)
 
 
 <h3>Sample Output</h3>
-![ai_1 8](https://github.com/gummadileepkumar/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118707761/2a76dd58-d4f0-4e7f-9b39-4c0aa58d4cec)
 
+
+![ai_1 8](https://github.com/gummadileepkumar/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118707761/3097543c-7396-400d-8e65-39fa06e7795c)
 
 
 <hr>
